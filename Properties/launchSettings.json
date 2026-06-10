@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PowerMonitorApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PowerMonitorApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
