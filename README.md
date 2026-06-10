@@ -26,3 +26,6 @@ To build the setup installer, install the Velopack CLI (`dotnet tool install -g 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+# Note:
+This app was prompted by me, and purely written/created by antigravity, with the Gemini 3.1 pro(high) model.
