@@ -52,3 +52,7 @@ _ReSharper*/
 # Generated files
 Generated\ Files/
 *_wpftmp.csproj
+
+# Velopack and Deployment
+Releases/
+publish_output/
